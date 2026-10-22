@@ -23,8 +23,3 @@ Demonstrating practical data handling techniques using specific parameter config
 - **`index_col`**: Setting existing dataset columns as DataFrame indices during ingestion.
 - **`skiprows`**: Skipping unwanted metadata or header lines.
 - **`header`**: Managing datasets without column titles or assigning header levels
-## 🛠️ Prerequisites & Installation
-Ensure you have Python installed along with the required dependencies:
-
-```bash
-pip install pandas openpyxl
